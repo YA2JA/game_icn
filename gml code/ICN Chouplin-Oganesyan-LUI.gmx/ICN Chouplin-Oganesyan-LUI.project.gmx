@@ -14,10 +14,15 @@
     </sprites>
     <sprite>sprites\Lave_spr</sprite>
     <sprite>sprites\porte_spr</sprite>
-    <sprite>sprites\duble_pic_spr</sprite>
-    <sprite>sprites\pic_spr</sprite>
     <sprites name="btn_menu_spr">
       <sprite>sprites\play_btn_spr</sprite>
+    </sprites>
+    <sprites name="pics">
+      <sprite>sprites\pic_spr</sprite>
+      <sprite>sprites\duble_pic_spr</sprite>
+      <sprite>sprites\pic_presser_spr</sprite>
+      <sprite>sprites\sprite9</sprite>
+      <sprite>sprites\sprite8</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -31,7 +36,10 @@
       <objects name="pics">
         <object>objects\pic_obj</object>
         <object>objects\duble_pic_obj</object>
+        <object>objects\pic_presser_obj</object>
+        <object>objects\object9</object>
       </objects>
+      <object>objects\object8</object>
     </objects>
     <object>objects\Personage_obj</object>
     <object>objects\porte</object>
@@ -42,6 +50,7 @@
     <room>rooms\Niveau_1</room>
     <room>rooms\Niveau_2</room>
     <room>rooms\Niveau_3</room>
+    <room>rooms\Niveau_4</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
