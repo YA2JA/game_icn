@@ -58,7 +58,7 @@ movespeed = 6;
             <string>//Les buttons
 key_right = keyboard_check(vk_right);
 key_left = -keyboard_check(vk_left);
-key_jump = keyboard_check_pressed(vk_up);
+key_jump = keyboard_check(vk_up);
 
 //Les données a l'entre
 move = key_left + key_right;

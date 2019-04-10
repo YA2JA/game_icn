@@ -3,8 +3,8 @@
   <caption></caption>
   <width>2000</width>
   <height>900</height>
-  <vsnap>8</vsnap>
-  <hsnap>8</hsnap>
+  <vsnap>4</vsnap>
+  <hsnap>32</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
@@ -58,10 +58,6 @@
     <instance objName="test_sole_obj" x="160" y="864" name="inst_9E61E12F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="192" y="864" name="inst_1FD6B0AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="192" y="864" name="inst_6833AF01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="test_sole_obj" x="224" y="864" name="inst_87230AE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="test_sole_obj" x="256" y="864" name="inst_C3C8D134" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="test_sole_obj" x="288" y="864" name="inst_E35A5007" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="test_sole_obj" x="320" y="864" name="inst_9ADCD9E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="352" y="864" name="inst_7F92752F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="384" y="864" name="inst_FF499AFD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="416" y="864" name="inst_14D3D5CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -206,18 +202,12 @@
     <instance objName="test_sole_obj" x="1632" y="576" name="inst_658FD4D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1696" y="512" name="inst_6B975D30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1728" y="512" name="inst_4A087C1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="test_sole_obj" x="1952" y="480" name="inst_0FB51A8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1888" y="480" name="inst_3BE1B202" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1920" y="480" name="inst_DD030C6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1824" y="480" name="inst_83866C8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1856" y="480" name="inst_9B978526" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1920" y="832" name="inst_1B26B287" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1888" y="832" name="inst_676DF10F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1674" y="838" name="inst_8846B016" locked="0" code="" scaleX="1.53125" scaleY="1.30999994277954" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1713" y="838" name="inst_1A40A0C1" locked="0" code="" scaleX="1.53125" scaleY="1.30999994277954" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1759" y="839" name="inst_833076F2" locked="0" code="" scaleX="1.53125" scaleY="1.30999994277954" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1803" y="838" name="inst_22309DEF" locked="0" code="" scaleX="3.15625" scaleY="1.25" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1854" y="838" name="inst_E02001FB" locked="0" code="" scaleX="1.53125" scaleY="1.30999994277954" colour="4294967295" rotation="0"/>
     <instance objName="Lave_obj" x="1982" y="838" name="inst_A9D50068" locked="0" code="" scaleX="1.53125" scaleY="1.30999994277954" colour="4294967295" rotation="0"/>
     <instance objName="Lave_obj" x="1952" y="839" name="inst_E0DE7E8A" locked="0" code="" scaleX="1.09375" scaleY="1.5" colour="4294967295" rotation="0"/>
     <instance objName="porte" x="1920" y="800" name="inst_C0C0CB29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -248,22 +238,17 @@
     <instance objName="test_sole_obj" x="1088" y="640" name="inst_E1AA51AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1120" y="640" name="inst_C141E1E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1504" y="672" name="inst_E9BFC42E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="test_sole_obj" x="1728" y="800" name="inst_9AAF79F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1648" y="840" name="inst_871C3533" locked="0" code="" scaleX="2" scaleY="1.5" colour="4294967295" rotation="0"/>
     <instance objName="Lave_obj" x="496" y="808" name="inst_ED9D98B4" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="Lave_obj" x="496" y="776" name="inst_F4530DB9" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="Lave_obj" x="496" y="832" name="inst_9A9DF94D" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="Lave_obj" x="400" y="808" name="inst_B03BD669" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1640" y="824" name="inst_82B758BA" locked="0" code="" scaleX="1.5" scaleY="1.5" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1688" y="824" name="inst_E421F9B9" locked="0" code="" scaleX="1.5" scaleY="1.5" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1728" y="824" name="inst_EB6AD19D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1760" y="824" name="inst_ED910A74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1760" y="808" name="inst_252AA362" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1792" y="824" name="inst_32D384B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1856" y="824" name="inst_258899B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Lave_obj" x="1824" y="824" name="inst_C35D9AC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="pic_obj" x="1728" y="480" name="inst_CD61AA5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="pic_obj" x="1592" y="544" name="inst_2E3B8465" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Lave_obj" x="1656" y="824" name="inst_9411630C" locked="0" code="" scaleX="2.5" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="Lave_obj" x="1800" y="836" name="inst_64BDC0F9" locked="0" code="" scaleX="2.5" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="Lave_obj" x="1736" y="828" name="inst_F5C23070" locked="0" code="" scaleX="2.5" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="Lave_obj" x="1832" y="840" name="inst_BAB537E8" locked="0" code="" scaleX="2.5" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="Lave_obj" x="608" y="920" name="inst_CE78FBFB" locked="0" code="" scaleX="40" scaleY="4.75" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

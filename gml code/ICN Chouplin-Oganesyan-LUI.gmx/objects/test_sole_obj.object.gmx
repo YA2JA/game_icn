@@ -26,7 +26,8 @@
           <argument>
             <kind>1</kind>
             <string>image_speed = 0;
-if (place_meeting(x,y-16,test_sole_obj)){
+if (    place_meeting(x,y-32, test_sole_obj)
+     or place_meeting(x,y-16, Lave_obj) ){
 
     image_index = 1;
 

@@ -8,9 +8,11 @@
   <sprites name="sprites">
     <sprites name="Sole sprits">
       <sprite>sprites\Test_sole_spr</sprite>
+      <sprite>sprites\cold_sole_spr</sprite>
     </sprites>
     <sprites name="Personage">
       <sprite>sprites\Personage_spr</sprite>
+      <sprite>sprites\deth_spr</sprite>
     </sprites>
     <sprite>sprites\Lave_spr</sprite>
     <sprite>sprites\porte_spr</sprite>
@@ -30,6 +32,9 @@
     <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\deth_script.gml</script>
+  </scripts>
   <objects name="objects">
     <objects name="sole objects">
       <object>objects\test_sole_obj</object>
@@ -47,11 +52,12 @@
     <object>objects\play_btn</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Niveau_4</room>
     <room>rooms\Menu</room>
     <room>rooms\Niveau_1</room>
     <room>rooms\Niveau_2</room>
     <room>rooms\Niveau_3</room>
-    <room>rooms\Niveau_4</room>
+    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
