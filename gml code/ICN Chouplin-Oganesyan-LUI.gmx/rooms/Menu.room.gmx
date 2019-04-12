@@ -51,6 +51,7 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
+    <instance objName="Personage_obj" x="464" y="672" name="inst_08EBC6D8" locked="0" code="global.seson = 0;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Lave_obj" x="512" y="736" name="inst_6DC592F6" locked="0" code="" scaleX="32" scaleY="4" colour="4294967295" rotation="0"/>
     <instance objName="play_btn" x="96" y="192" name="inst_D98C756A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="320" y="224" name="inst_DF45ECE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -160,7 +161,6 @@
     <instance objName="test_sole_obj" x="960" y="704" name="inst_A78143CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="992" y="704" name="inst_6EB3EC5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="1024" y="704" name="inst_4D8CBB86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Personage_obj" x="480" y="672" name="inst_306B9930" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="test_sole_obj" x="192" y="480" name="inst_700D9101" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>

@@ -52,12 +52,13 @@
     <object>objects\play_btn</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Niveau_4</room>
     <room>rooms\Menu</room>
     <room>rooms\Niveau_1</room>
     <room>rooms\Niveau_2</room>
     <room>rooms\Niveau_3</room>
-    <room>rooms\room5</room>
+    <room>rooms\Niveau_4</room>
+    <room>rooms\Niveau_5</room>
+    <room>rooms\Niveau_6</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
