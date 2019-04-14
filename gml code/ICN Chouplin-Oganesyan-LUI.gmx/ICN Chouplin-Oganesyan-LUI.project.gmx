@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprites name="Sole sprits">
       <sprite>sprites\Test_sole_spr</sprite>
+      <sprite>sprites\destract_sole</sprite>
       <sprite>sprites\cold_sole_spr</sprite>
     </sprites>
     <sprites name="Personage">
@@ -59,6 +60,8 @@
     <room>rooms\Niveau_4</room>
     <room>rooms\Niveau_5</room>
     <room>rooms\Niveau_6</room>
+    <room>rooms\Niveau_7</room>
+    <room>rooms\THE_END</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
