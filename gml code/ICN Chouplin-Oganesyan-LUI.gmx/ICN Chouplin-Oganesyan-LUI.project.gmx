@@ -54,13 +54,17 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\Menu</room>
-    <room>rooms\Niveau_1</room>
-    <room>rooms\Niveau_2</room>
-    <room>rooms\Niveau_3</room>
-    <room>rooms\Niveau_4</room>
-    <room>rooms\Niveau_5</room>
-    <room>rooms\Niveau_6</room>
-    <room>rooms\Niveau_7</room>
+    <rooms name="l'ete">
+      <room>rooms\Niveau_1</room>
+      <room>rooms\Niveau_2</room>
+      <room>rooms\Niveau_3</room>
+      <room>rooms\Niveau_4</room>
+    </rooms>
+    <rooms name="l'hiver">
+      <room>rooms\Niveau_5</room>
+      <room>rooms\Niveau_6</room>
+      <room>rooms\Niveau_7</room>
+    </rooms>
     <room>rooms\THE_END</room>
   </rooms>
   <help>
