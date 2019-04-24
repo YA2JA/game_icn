@@ -13,7 +13,7 @@
     <option_android_amazon_gc_whispersync>0</option_android_amazon_gc_whispersync>
     <option_android_amazon_iap>0</option_android_amazon_iap>
     <option_android_apk_expansion>0</option_android_apk_expansion>
-    <option_android_arch_armv5>True</option_android_arch_armv5>
+    <option_android_arch_armv5>False</option_android_arch_armv5>
     <option_android_arch_armv7>True</option_android_arch_armv7>
     <option_android_arch_mips>True</option_android_arch_mips>
     <option_android_arch_mipsr2>false</option_android_arch_mipsr2>
@@ -27,7 +27,7 @@
     <option_android_google_play_id></option_android_google_play_id>
     <option_android_google_tracking_id></option_android_google_tracking_id>
     <option_android_iap_suppress_toast>false</option_android_iap_suppress_toast>
-    <option_android_icade_support>-1</option_android_icade_support>
+    <option_android_icade_support>0</option_android_icade_support>
     <option_android_icon_hdpi>Configs\Default\android\icons\icon_hdpi.png</option_android_icon_hdpi>
     <option_android_icon_ldpi>Configs\Default\android\icons\icon_ldpi.png</option_android_icon_ldpi>
     <option_android_icon_mdpi>Configs\Default\android\icons\icon_mdpi.png</option_android_icon_mdpi>
@@ -81,8 +81,8 @@
     <option_frequency>0</option_frequency>
     <option_frontimage>nil</option_frontimage>
     <option_fullscreen>False</option_fullscreen>
-    <option_gameguid>{70B9865E-3D99-48AE-B2F9-034A91F82E7F}</option_gameguid>
-    <option_gameid>378340995</option_gameid>
+    <option_gameguid>{30F35870-0BC4-4044-AAB8-94ADB80722A6}</option_gameguid>
+    <option_gameid>421951234</option_gameid>
     <option_haptic_effects>0</option_haptic_effects>
     <option_hasloadimage>false</option_hasloadimage>
     <option_helpkey>true</option_helpkey>
@@ -93,7 +93,7 @@
     <option_html5_advertising_type>Supersonic Ads</option_html5_advertising_type>
     <option_html5_allow_fullscreen>True</option_html5_allow_fullscreen>
     <option_html5_alwaysreload>False</option_html5_alwaysreload>
-    <option_html5_browser_title>Created with GameMaker:Studio</option_html5_browser_title>
+    <option_html5_browser_title>ICN BROS</option_html5_browser_title>
     <option_html5_centergame>True</option_html5_centergame>
     <option_html5_flurry_enable>0</option_html5_flurry_enable>
     <option_html5_flurry_id></option_html5_flurry_id>
@@ -106,7 +106,7 @@
     <option_html5_interpolate>-1</option_html5_interpolate>
     <option_html5_jsprepend></option_html5_jsprepend>
     <option_html5_loadingbar>-1</option_html5_loadingbar>
-    <option_html5_localrunalert>True</option_html5_localrunalert>
+    <option_html5_localrunalert>False</option_html5_localrunalert>
     <option_html5_outputdebugtoconsole>False</option_html5_outputdebugtoconsole>
     <option_html5_outputname>index.html</option_html5_outputname>
     <option_html5_scale>0</option_html5_scale>
@@ -125,7 +125,7 @@
     <option_ios_adcolony_enable_V4VC>0</option_ios_adcolony_enable_V4VC>
     <option_ios_advertising_enable>0</option_ios_advertising_enable>
     <option_ios_advertising_key></option_ios_advertising_key>
-    <option_ios_advertising_type>iAds</option_ios_advertising_type>
+    <option_ios_advertising_type>Playhaven</option_ios_advertising_type>
     <option_ios_app_id></option_ios_app_id>
     <option_ios_build_version>0</option_ios_build_version>
     <option_ios_certificate>&lt; Press refresh to fetch certificate list from Mac&gt;</option_ios_certificate>
