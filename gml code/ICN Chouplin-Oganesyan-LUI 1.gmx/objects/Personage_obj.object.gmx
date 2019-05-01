@@ -72,6 +72,7 @@ if not global.deth{
 //Les données a l'entre
 move = key_left + key_right;
 hsp = move * movespeed;
+
 if (vsp &lt; 10) vsp += grav;
 
 if (move != 0) image_xscale = move;
