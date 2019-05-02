@@ -69,7 +69,7 @@ if not global.deth{
     key_jump = 0;
 
 }
-//Les données a l'entre
+
 move = key_left + key_right;
 hsp = move * movespeed;
 

@@ -77,7 +77,7 @@ max_enemies = score*sqr(sin(score))+10;
 
 if nember &lt; max_enemies{
     if round(random(1)){
-        instance_create(1640*enemies_x,random(1280),object2);
+        instance_create(1440*enemies_x,random(1280),object2);
     }else{
         instance_create(random(1440),1280*enemies_y,object2);
     }
@@ -108,7 +108,7 @@ alarm[4] = 10;
           <argument>
             <kind>1</kind>
             <string>instance_create(random(800)+100,random(500)+100,bonus);
-bonus_time+=20;
+bonus_time+=50;
 alarm[3] = bonus_time;
 
 </string>
